@@ -17,7 +17,7 @@
     <a href="https://Dubabbi.github.io">
     <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
     </a>
-    <a href="https://velog.io/@Dubabbi">
+    <a href="https://velog.io/@dubabbi/posts">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
   
