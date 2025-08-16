@@ -6,7 +6,6 @@
 
 -------
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDubabbi&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 ![Dubabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dubabbi&theme=holi&show_icons=true)
 
@@ -38,53 +37,21 @@
 
 </div><br>
     
-## 🔨 Once I've used 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=ffd35b">
-    <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"> -->
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    </div>
-    <!-- Development Tools -->
-    <p><strong>Development Tools</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
-    </div>
-    <!-- Framework -->
-    <p><strong>Framework</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white">
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-    </div>
-    <!-- Version Control -->
-    <p><strong>Version Control</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-    </div>
-    <!-- Communication -->
-    <p><strong>Communication</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
-    </div>
-</div><br>
+
+
+## 🔨 Once I've used
+
+| Category               | Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Language** | ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Library / Framework** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
+| **Styling**            | ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white) ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square\&logo=styled-components\&logoColor=white) ![emotion](https://img.shields.io/badge/emotion-C76494?style=flat-square\&logo=emotion\&logoColor=white)                                                                                                                                                                                                                                                                             |
+| **Data Fetching**      | ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square\&logo=react-query\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Database**           | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Server**             | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Frameworks & Tools** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square\&logo=pycharm\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Development Tools**  | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square\&logo=visual-studio\&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square\&logo=anaconda\&logoColor=white)                                                                                                                                                                                                                                                                                           |
+| **Version Control**    | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Communication**      | ![Notion](https://img.shields.io/badge/Notion-F3F3F3?style=flat-square\&logo=notion\&logoColor=black) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square\&logo=slack\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+<br>
 </div>
