@@ -1,18 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Dubabbi's+GitHub!👋)](https://git.io/typing-svg)
- 
-<div align="left">
-
--------
-
-
-![Dubabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dubabbi&theme=holi&show_icons=true)
-
----
-
-<div align="left">
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=56C3F7&width=435&height=40&lines=Soeun+Yoon)](https://git.io/typing-svg)
 ## ✨ About Me
 - 🌿 **Frontend Developer** (React / Next.js / TypeScript)
 - 🎨 사용자 경험을 더 좋게 만드는 UI/UX를 고민해요
@@ -22,8 +8,6 @@
 ---
 
 ## 🚀 Activities
-> 최근 활동 / 동아리 · 커뮤니티
-
 | 활동 | 기간 | 비고 |
 |---|---:|---|
 | **CMC Web 18기** | **2025.11 ~ ing** | - |
@@ -76,3 +60,5 @@
 ## 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dubabbi&theme=react-dark&hide_border=true&radius=16" />
 
+
+![Dubabbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dubabbi&theme=holi&show_icons=true)
